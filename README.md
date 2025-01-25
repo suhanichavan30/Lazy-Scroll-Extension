@@ -11,6 +11,7 @@ Lightweight and Efficient: Designed for minimal impact on your browsing performa
 Installation
 
 clone the repositoy
+
 Go to chrome://extensions/ in your Chrome browser.
 Enable "Developer mode" in the top right corner.
 Click "Load unpacked" and select the folder containing the downloaded files.   
@@ -21,6 +22,8 @@ Click the extension icon in your Chrome toolbar.
 Use the slider or input field to adjust the scrolling speed.
 Click the "Start" button to begin scrolling.
 Click the "Stop" button to stop scrolling.
+
+
 Customization
 
 You can customize the scrolling behavior by modifying the values in the contentScript.js file:

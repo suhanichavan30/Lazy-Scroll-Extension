@@ -30,10 +30,14 @@ scrollInterval: This variable defines the time interval between each scroll oper
 
 Screenshots:
 
+sc1-
+
 ![sc](https://github.com/user-attachments/assets/21b930ed-d3b5-46e9-a12b-9bfd289da022)
 
 
 
+
+sc2-
 
 ![image](https://github.com/user-attachments/assets/e0f6c7c5-daac-4df7-a0ff-849285f23f6f)
 

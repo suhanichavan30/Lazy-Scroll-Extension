@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lazy Scroll</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 10px;
+            text-align: center;
+        }
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #start {
+            background-color: #4CAF50;
+            color: white;
+        }
+        #stop {
+            background-color: #f44336;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h2>Lazy Scroll</h2>
+    <button id="start">Start Scrolling</button>
+    <button id="stop">Stop Scrolling</button>
+    <br />
+    <label for="speed">Speed:</label>
+    <input type="range" id="speed" min="1" max="50" value="10">
+    
+</body>
+<script src="popup.js"></script>
+</html>

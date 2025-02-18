@@ -26,6 +26,7 @@ Click the "Stop" button to stop scrolling.
 
 Customization
 
+
 You can customize the scrolling behavior by modifying the values in the contentScript.js file:
 
 scrollAmount: This variable controls the number of pixels scrolled per interval (default: 10).

@@ -9,7 +9,6 @@ Easy to Use: Start and stop scrolling with a single click.
 Lightweight and Efficient: Designed for minimal impact on your browsing performance.
 
 Installation
-
 clone the repositoy
 
 Go to chrome://extensions/ in your Chrome browser.

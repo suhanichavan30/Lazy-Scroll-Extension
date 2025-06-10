@@ -13,6 +13,7 @@ clone the repositoy
 
 Go to chrome://extensions/ in your Chrome browser.
 Enable "Developer mode" in the top right corner.
+
 Click "Load unpacked" and select the folder containing the downloaded files.   
 
 Usage
